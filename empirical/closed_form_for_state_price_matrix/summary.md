@@ -1,7 +1,8 @@
 # Summary of Closed-Form for State Price Matrix
 
-[Read the full papder (PDF)](./empirical/closed_form_ad_matrix/closed_form_for_state_price_matrix.pdf)
-[Python Code](./empirical/implementation/closed_form_ad_matrix/code.ipynb)
+[Read the full papder (PDF)](./empirical/closed_form_for_state_price_matrix/paper.pdf)
+
+[Python Code](./empirical/implementation/closed_form_for_state_price_matrix/code.ipynb)
 
 We develop a closed-form solution for recovering the state price matrix (Arrow-Debreu prices) from observed European option prices across multiple tenors. Building on the framework of Ross (2015), which models the economy as a finite, time-homogeneous Markov process, we address the key limitation of prior empirical methods – numerical instability – by deriving an analytical expression using vectorization and Kronecker products. 
 
