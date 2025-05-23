@@ -1,8 +1,8 @@
 # 1. Closed-Form for State Price Matrix
 
-[Read the full papder (PDF)](./empirical/closed_form_for_state_price_matrix/paper.pdf)
+[Read the full papder (PDF)](./closed_form_for_state_price_matrix/paper.pdf)
 
-[Python Code](./empirical/implementation/closed_form_for_state_price_matrix/code.ipynb)
+[Python Code](./implementation/closed_form_for_state_price_matrix/code.ipynb)
 
 **Summary**
 
